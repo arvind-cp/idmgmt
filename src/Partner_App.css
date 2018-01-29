@@ -1,0 +1,40 @@
+.Partner_App {
+  text-align: center;
+}
+
+.Partner_App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.Partner_App-header {
+  background-color: orange	;
+  height: 250px;
+  padding: 20px;
+  color: white;
+}
+
+.Partner_App-intro {
+  background-color: orange;
+  font-size: large;
+}
+
+.Partner_App-Content {
+  background-color: orange;
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+table, th, td {
+   border: 1px solid black;
+   font-size: 14px;
+}
+
+tr {background-color: #ADBFD7}
+
+table { margin: auto; }
+
